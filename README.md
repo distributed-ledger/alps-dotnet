@@ -22,7 +22,7 @@ dotnet build
 ```
 
 ```
-`dotnet <path to startup-dll>
+dotnet <path to startup-dll>
 // e.g.: dotnet .\ALPS.KeyGenerator\bin\Debug\netcoreapp2.1\ALPS.KeyGenerator.dll
 ```
 
